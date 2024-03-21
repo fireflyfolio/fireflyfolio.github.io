@@ -1,5 +1,3 @@
-# FireflyFolio Overview
-
-## What's new?
+# What's new?
 
 - FireflyFolio 2025: Work in progress
