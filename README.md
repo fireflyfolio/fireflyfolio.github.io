@@ -5,8 +5,8 @@ Here are some works i'm working on for 2025, which will be available on my profe
 These projects allow me to keep up to date with the latest developments in my technical skills and to experiment with technical solutions while generating additional income.
 
 ## Professional Websites
-- **[FireflyFolio 2025](https://www.fireflyfolio.com)**: Technical Demos, Commercial Game
-- **[FireflyFolio Blog](https://fireflyfolio.github.io)**: Technical PoC, Lab, Blog articles
+- **[FireflyFolio 2025](https://www.fireflyfolio.com)**: Technical Demos, Commercial Games
+- **[FireflyFolio Blog](https://fireflyfolio.github.io)**: Technical PoCs, Labs, Blog articles
 
 ## Technical Demos
 The sourcecode of MVP version will be available on Github as proof.
