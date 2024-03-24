@@ -30,7 +30,7 @@ The sourcecode will be available on Github as proof.
 - **Machine Learning**: Implementation exercises for fundamental and applied models
 - **Quantum Computing**: Implementation exercises for training purposes
 
-## Commercial Game
+## Commercial Games
 - KKW: An 3D action platformer, powered by Godot Engine
 
 
