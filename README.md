@@ -5,7 +5,7 @@ Here are some works i'm working on for 2025, which will be available on my profe
 These projects allow me to keep up to date with the latest developments in my technical skills and to experiment with technical solutions while generating additional income.
 
 ## Professional Websites
-- **[FireflyFolio 2025](https://www.fireflyfolio.com)**: Commercial Games, Technical Demos
+- **[FireflyFolio 2025](https://www.fireflyfolio.com)**: Commercial Games, Technical Demos, Retrogames, Creative Works
 - **[FireflyFolio Blog](https://fireflyfolio.github.io)**: Technical PoCs, Labs, Blog Articles
 
 ## Technical Demos
