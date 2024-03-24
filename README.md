@@ -23,7 +23,7 @@ The sourcecode will be available on Github as proof.
 - **Multimodal GenAI**: Developed from scratch with Python and standard libraries like NumPy
 - **OS GUI**: Developed from scratch with C and OpenGL only
 
-## Technical Lab
+## Technical Labs
 The sourcecode will be available on Github as proof.
 
 - **Computer Science**: Exercises in implementing data structures and basic and applied algorithms
@@ -31,6 +31,6 @@ The sourcecode will be available on Github as proof.
 - **Quantum Computing**: Implementation exercises for training purposes
 
 ## Commercial Game
-- KKW: An action platformer
+- KKW: An 3D action platformer
 
 
