@@ -31,6 +31,6 @@ The sourcecode will be available on Github as proof.
 - **Quantum Computing**: Implementation exercises for training purposes
 
 ## Commercial Game
-- KKW: An 3D action platformer
+- KKW: An 3D action platformer, developed with Godot Engine
 
 
