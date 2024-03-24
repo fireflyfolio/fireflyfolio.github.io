@@ -6,7 +6,7 @@ These projects allow me to keep up to date with the latest developments in my te
 
 ## Professional Websites
 - **[FireflyFolio 2025](https://www.fireflyfolio.com)**: Technical Demos, Commercial Games
-- **[FireflyFolio Blog](https://fireflyfolio.github.io)**: Technical PoCs, Labs, Blog articles
+- **[FireflyFolio Blog](https://fireflyfolio.github.io)**: Technical PoCs, Labs, Blog Articles
 
 ## Technical Demos
 The sourcecode of MVP version will be available on Github as proof.
