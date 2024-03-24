@@ -8,6 +8,9 @@ These projects allow me to keep up to date with the latest developments in my te
 - **[FireflyFolio 2025](https://www.fireflyfolio.com)**: Commercial Games, Technical Demos, Retrogames, Creative Works
 - **[FireflyFolio Blog](https://fireflyfolio.github.io)**: Technical PoCs, Labs, Blog Articles
 
+## Commercial Games
+- **Project KKW**: An 3D action platformer, powered by Godot Engine
+
 ## Technical Demos
 The sourcecode of MVP version will be available on Github as proof.
 
@@ -30,7 +33,10 @@ The sourcecode will be available on Github as proof.
 - **Machine Learning**: Implementation exercises for fundamental and applied models
 - **Quantum Computing**: Implementation exercises for training purposes
 
-## Commercial Games
-- **Project KKW**: An 3D action platformer, powered by Godot Engine
-
+## Blog Articles
+- Softwares 
+- Opensource
+- Sciences 
+- Art, Music & Languages
+- Miscellaneous
 
