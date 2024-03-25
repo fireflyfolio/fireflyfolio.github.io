@@ -6,7 +6,7 @@ These projects allow me to keep up to date with the latest developments in my te
 
 ## Professional Websites
 - **[FireflyFolio 2025](https://www.fireflyfolio.com)**: Commercial Games, Technical Demos, Retro Games & Apps, Creative Works
-- **[FireflyFolio Blog](https://fireflyfolio.github.io)**: Technical PoCs, Technical Labs, Blog Articles
+- **[FireflyFolio Blog](https://fireflyfolio.github.io)**: Technical PoCs, Technical Labs, Technical Blog Articles
 
 ## Commercial Games
 - **Project KKW**: An 3D action platformer, powered by Godot Engine
@@ -33,7 +33,7 @@ The sourcecode will be available on Github as proof.
 - **Machine Learning**: Implementation exercises for fundamental and applied models
 - **Quantum Computing**: Implementation exercises for training purposes
 
-## Blog Articles
+## Technical Blog Articles
 - Softwares 
 - Opensource
 - Sciences 
