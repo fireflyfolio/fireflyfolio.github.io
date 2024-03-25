@@ -17,7 +17,7 @@ The sourcecode of MVP version will be available on Github as proof.
 - **Project Network** (web): Next, Yew, Gin, Django, Rails, Phoenix, Spring, Play, Laravel, ASPNET
 - **Learning Bag** (mobile): Android, Flutter, React Native, PWA
 - **Pixel Studio** (desktop): Electron, NW, Flutter, Kotlin Platform, Kivy, Tauri, WPF
-- **MMO Openworld** (game): Unreal Engine, Godot Engine, Panda 3D, UPBGE, O3DE
+- **JRPG Openworld** (game): Unreal Engine, Godot Engine, Panda 3D, UPBGE, O3DE
 
 ## Technical Proof of Concepts
 The sourcecode will be available on Github as proof.
