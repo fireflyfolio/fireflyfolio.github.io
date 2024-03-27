@@ -12,8 +12,6 @@ These projects allow me to keep up to date with the latest developments in my te
 - **Project KKW**: An 3D action platformer, powered by Godot Engine
 
 ## Technical Demos
-The sourcecode of MVP version will be available on Github as proof.
-
 - **Project Network** (web): Next, Yew, Gin, Django, Rails, Phoenix, Spring, Play, Laravel, ASPNET
 - **Learning Bag** (mobile): Android, Flutter, React Native, PWA
 - **Pixel Studio** (desktop): Electron, NW, Flutter, Kotlin Platform, Kivy, Tauri, WPF
