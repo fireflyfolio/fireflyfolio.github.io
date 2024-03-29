@@ -1,8 +1,8 @@
 # What's new?
 
-Here are some works i'm working on for 2025, which will be available on my professional websites.
+Here are some of the projects I'm working on for 2025, which will be available on my professional websites.
 
-These projects allow me to keep up to date with the latest developments in my technical skills and to experiment with technical solutions while generating additional income.
+These projects allow me to keep abreast of the latest developments in my technical and artistic fields and to experiment with technical solutions while generating additional income.
 
 ## Professional Websites
 - **[FireflyFolio 2025](https://www.fireflyfolio.com)**: Commercial Games, Technical Demos, Retro Games & Apps, Creative Works
