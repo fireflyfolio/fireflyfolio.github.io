@@ -15,8 +15,8 @@ These projects allow me to keep abreast of the latest developments in my technic
 Demos can be tested online or downloaded.
 
 - **Project Network** (web): Next, Yew, Gin, Django, Rails, Phoenix, Spring, Play, Laravel, ASPNET
-- **Learning Bag** (mobile): Android, Flutter, React Native, PWA
-- **Pixel Studio** (desktop): Electron, NW, Flutter, Kotlin Platform, Kivy, Tauri, WPF
+- **Learning Bag** (mobile): Android, iOS, Flutter, React Native, PWA
+- **Pixel Studio** (desktop): Electron, NW, Flutter, Kotlin Platform, Kivy, Tauri, WPF, AppKit
 - **JRPG Openworld** (game): Unreal Engine, Godot Engine, Panda 3D, UPBGE, O3DE
 
 ## Technical Proof of Concepts
