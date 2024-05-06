@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+pre {
+  @apply whitespace-pre-wrap;
+}
+
+.content a[href]:not(.normal) { 
+  @apply text-blue-700;
+  @apply dark:text-blue-300;
+}
+
+.chip {
+  @apply block;
+  @apply absolute -top-4 -left-4;
+  @apply border;
+  @apply rounded-full;
+  @apply p-2;
+  @apply text-xs;
+  @apply not-italic;
+  @apply uppercase;
+  @apply bg-white dark:bg-black;
+}
+
+/* Sticky Header */
+.sticky-header {
+  @apply sticky top-0 z-50;
+  @apply transition-transform duration-500;
+  transform: translateY(0);
+}
+
+.sticky-header.scrolling {
+  transform: translateY(-100%);
+}
+
+/* Card */
+.card {
+  @apply flex;
+  @apply h-[6rem];
+  @apply border rounded-lg;
+  @apply justify-center items-center;
+  @apply relative;
+  @apply p-8;
+  @apply text-center;
+}
+
+.card .action {
+  @apply block;
+  @apply w-full;
+  @apply h-full;
+  @apply place-content-center;
+}
+
+.card .badge {
+  @apply block;
+  @apply absolute -top-4 -right-4;
+  @apply border rounded-full;
+  @apply p-1;
+  @apply bg-white dark:bg-black;
+}
