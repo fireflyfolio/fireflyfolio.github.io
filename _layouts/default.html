@@ -5,14 +5,27 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="/assets/css/main.css"> 
-    <script src="/assets/js/main.js"></script>  
+    <script src="/assets/js/main.js"></script> 
+    <script src="/assets/lib/three/three.min.js"></script>
+    <script src="/assets/lib/vanta/vanta.net.min.js"></script>
+    <script>
+      window.onload = (event) => {
+        if (window.VANTA) 
+          window.VANTA.NET({
+            el: "#top",
+            mouseControls: true,
+            touchControls: true,
+            gyroControls: false,
+            minHeight: 200.00,
+            minWidth: 200.00,
+            scale: 1.00,
+            scaleMobile: 1.00
+          });
+      };
+    </script>
   </head>
-  <body class="bg-white dark:bg-black dark:text-white " id="top">
-    {% include header.html %}
-
-    <div class="container mx-auto">
-      {{ content }}
-      {% include footer.html %}
-    </div>
+  <body class="bg-black text-white" id="top">
+    {{ content }}
+    {% include footer.html %}
   </body>
 </html>
