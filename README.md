@@ -18,13 +18,6 @@ module.exports = {
   content: [
     "./_includes/**/*.{html,js}",
     "./_layouts/**/*.{html,js}",
-    "./_posts/**/*.{html,js}",
-    "./about/**/*.{html,js}",
-    "./artist/**/*.{html,js}",
-    "./blog/**/*.{html,js}",
-    "./culture/**/*.{html,js}",
-    "./developer/**/*.{html,js}",
-    "./works/**/*.{html,js}",
     "./index.html",
   ],
   theme: {
