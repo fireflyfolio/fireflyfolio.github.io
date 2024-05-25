@@ -61,5 +61,5 @@ pre {
   @apply absolute -top-4 -right-4;
   @apply border rounded-full;
   @apply p-1;
-  @apply bg-white dark:bg-black;
+  @apply bg-sky-800;
 }

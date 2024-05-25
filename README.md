@@ -34,6 +34,6 @@ docker compose up -d
 
 Run Tailwind CLI:
 ```bash
-npx tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/main.css --watch
+npm run tailwind
 ```
 NB: Node must be installed in your host system first.

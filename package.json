@@ -1,6 +1,6 @@
 {
-  "dependencies": {
-    "@material-tailwind/html": "^2.2.2"
+  "scripts": {
+    "tailwind": "tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/main.css --watch"
   },
   "devDependencies": {
     "tailwindcss": "^3.4.3"
