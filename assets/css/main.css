@@ -782,3 +782,21 @@ pre {
   --tw-bg-opacity: 1;
   background-color: rgb(7 89 133 / var(--tw-bg-opacity));
 }
+
+/* Heading */
+
+h1 {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+  margin-bottom: 2rem;
+}
+
+/* List */
+
+ul {
+  list-style-type: disc;
+}
+
+li {
+  margin-left: 2rem;
+}

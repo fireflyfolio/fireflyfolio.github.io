@@ -63,3 +63,18 @@ pre {
   @apply p-1;
   @apply bg-sky-800;
 }
+
+/* Heading */
+h1 {
+  @apply text-4xl;
+  @apply mb-8;
+}
+
+/* List */
+ul {
+  @apply list-disc;
+}
+
+li {
+  @apply ml-8;
+}
